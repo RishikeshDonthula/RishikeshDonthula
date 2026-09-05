@@ -2,20 +2,15 @@
 
 **Machine Learning Engineer | Data Scientist | MS Computer Science @ Georgia Tech | BS Computer Science @ NYU**
 
-I build practical machine-learning systems and enjoy understanding models from first principles. My recent work includes implementing a GPT architecture from scratch, predictive modeling, and data visualization.
+I build practical machine-learning software and enjoy understanding models from first principles. My current work spans ML fundamentals, reproducible data pipelines, and interactive analytical applications.
 
 ## Featured Work
 
 - **[GPT From Scratch](https://github.com/RishikeshDonthula/neetcode-gpt)**  
-  Implemented neural-network foundations, attention, transformers, tokenization,
-  KV caching, and text generation in Python.
+  A work-in-progress collection of Python implementations and exercises from
+  gradient descent through modern language-model components.
 
-- **Maintenance Payment Prediction**  
-  Built a machine-learning workflow to predict payment compliance.
-  _README and reproducible results coming soon._
-
-- **LCS Performance Visualization**  
-  Analyzed and visualized team win/loss trends over time.
+Additional projects are being prepared for public release.
 
 ## Technical Skills
 
