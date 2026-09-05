@@ -27,7 +27,7 @@ I build practical machine-learning systems and enjoy understanding models from f
 
 - Pursuing an MS in Computer Science at Georgia Tech, specializing in Machine Learning
 - Improving my ML engineering and production deployment skills
-- Seeking **[target role]** opportunities for **[start date]**
+- Seeking **Machine Learning Engineer/Data Scientist** opportunities starting **May 2027**
 
 ## Contact
 
