@@ -1,6 +1,6 @@
 # Rishikesh Donthula
 
-**Machine Learning Engineer | Data Scientist | MS Computer Science @ Georgia Tech | BS Computer Science @ NYU**
+**Machine Learning Engineer | Software Engineer, ML/AI | MS Computer Science @ Georgia Tech | BS Computer Science @ NYU**
 
 I build practical machine-learning software and enjoy understanding models from first principles. My current work spans ML fundamentals, reproducible data pipelines, and interactive analytical applications.
 
@@ -22,7 +22,7 @@ Additional projects are being prepared for public release.
 
 - Pursuing an MS in Computer Science at Georgia Tech, specializing in Machine Learning
 - Improving my ML engineering and production deployment skills
-- Seeking **Machine Learning Engineer/Data Scientist** opportunities starting **May 2027**
+- Seeking **Machine Learning Engineer and ML-focused Software Engineer** opportunities starting **May 2027**
 
 ## Contact
 
